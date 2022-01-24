@@ -11,6 +11,6 @@
 
 ## Commands for the bot
 ### Once the bot is in your discord channel you can now send commands to it!
-### you can type "!invite" in a channel and it will send you a link so you can add it to other discord servers
-### "!help" will send you a list of the commands available
+### send "!invite" in a channel and it will send you a link so you can add it to other discord servers
+### send "!help" will send you a list of the commands available
 ### for stock information you can type "!Stonks" followed by a ticker for yesterdays high/low/close price of a stock. EX - "!Stonks aapl"
