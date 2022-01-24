@@ -5,6 +5,6 @@
 ### For the api we make use of the json-simple-1.1 jar file. 
 
 ## Set-up
-### once the bot is set up with jar files you can not get the keys for the bot.
+### Once the bot is set up with jar files you can not get the keys for the bot.
 ### Go to discord.com/developers and create a bot then get the bot token and insert it into the BotStartup.java file where instructed
 ### Now go to alphavantage.co and get your stock market api key and insert that into the StonkAPI.java file where instructed
